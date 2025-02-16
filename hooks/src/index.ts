@@ -33,5 +33,4 @@ app.post("/hooks/catch/:userId/:zapId", async (req, res) => {
   });
 });
 
-// listen //
 app.listen(3002);
