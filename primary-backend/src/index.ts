@@ -17,5 +17,4 @@ app.use("/api/v1/trigger", triggerRouter);
 
 app.use("/api/v1/action", actionRouter);
 
-app.listen(3000);
-console.log("hhhhh");
+app.listen(3001);
